@@ -1,0 +1,11 @@
+streamlit==1.25.0
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.2.2
+sentence-transformers==2.7.0
+pdfplumber==0.10.2
+google-cloud-bigquery==3.11.4
+google-auth==2.23.0
+google-generativeai==0.3.1
+db-dtypes==1.1.1
+python-dotenv
